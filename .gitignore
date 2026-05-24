@@ -1,0 +1,6 @@
+app/__pycache__
+app/Pipfile.lock
+app/config
+.vscode
+app/.venv
+app/config
